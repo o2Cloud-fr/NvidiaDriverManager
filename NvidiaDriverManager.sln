@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32519.111
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NvidiaDriverManager", "NvidiaDriverManager\NvidiaDriverManager.csproj", "{6AD4EBC4-FCD5-453B-96C8-F36431E6A5AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD4EBC4-FCD5-453B-96C8-F36431E6A5AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD4EBC4-FCD5-453B-96C8-F36431E6A5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD4EBC4-FCD5-453B-96C8-F36431E6A5AA}.Debug|x64.ActiveCfg = Debug|x64
+		{6AD4EBC4-FCD5-453B-96C8-F36431E6A5AA}.Debug|x64.Build.0 = Debug|x64
+		{6AD4EBC4-FCD5-453B-96C8-F36431E6A5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD4EBC4-FCD5-453B-96C8-F36431E6A5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD4EBC4-FCD5-453B-96C8-F36431E6A5AA}.Release|x64.ActiveCfg = Release|x64
+		{6AD4EBC4-FCD5-453B-96C8-F36431E6A5AA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCB3012C-EEC1-44F8-95DB-86680B8A547F}
+	EndGlobalSection
+EndGlobal

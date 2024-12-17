@@ -1,0 +1,11 @@
+C:\Users\MyAlien\source\repos\NvidiaDriverManager\NvidiaDriverManager\bin\Debug\NvidiaDriverManager.exe.config
+C:\Users\MyAlien\source\repos\NvidiaDriverManager\NvidiaDriverManager\bin\Debug\NvidiaDriverManager.exe
+C:\Users\MyAlien\source\repos\NvidiaDriverManager\NvidiaDriverManager\bin\Debug\NvidiaDriverManager.pdb
+C:\Users\MyAlien\source\repos\NvidiaDriverManager\NvidiaDriverManager\obj\Debug\NvidiaDriverManager.csproj.AssemblyReference.cache
+C:\Users\MyAlien\source\repos\NvidiaDriverManager\NvidiaDriverManager\obj\Debug\NvidiaDriverManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\MyAlien\source\repos\NvidiaDriverManager\NvidiaDriverManager\obj\Debug\NvidiaDriverManager.Form1.resources
+C:\Users\MyAlien\source\repos\NvidiaDriverManager\NvidiaDriverManager\obj\Debug\NvidiaDriverManager.Properties.Resources.resources
+C:\Users\MyAlien\source\repos\NvidiaDriverManager\NvidiaDriverManager\obj\Debug\NvidiaDriverManager.csproj.GenerateResource.cache
+C:\Users\MyAlien\source\repos\NvidiaDriverManager\NvidiaDriverManager\obj\Debug\NvidiaDriverManager.csproj.CoreCompileInputs.cache
+C:\Users\MyAlien\source\repos\NvidiaDriverManager\NvidiaDriverManager\obj\Debug\NvidiaDriverManager.exe
+C:\Users\MyAlien\source\repos\NvidiaDriverManager\NvidiaDriverManager\obj\Debug\NvidiaDriverManager.pdb
